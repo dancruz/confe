@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteBase /confe/
+RewriteCond ^login index.php?page=login
+RewriteCond ^logout index.php?page=logout
+RewriteCond ^avisos index.php?page=avisos

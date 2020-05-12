@@ -1,0 +1,20 @@
+Cambios realizados en la version 2.0 de CNFE
+- Agregar secciones de agregar/editar/eliminar de las opciones de tipos de algunos campos.
+- Agregar edicion de la cabecera y pie de pagina del sitio.
+- El titulo solo se puede cambiar en la base de datos.
+- Se quita las variables que se definian en config.php con respecto a las caracteristicas del sitio.
+- Transicion de las variables mysql a mysqli, por tener mayor seguridad y ademas que se volvio obsoleto lo anterior.
+- Desaparece la opcion de anuncios en el lado izquierdo de la pagina principal.
+- Se agrego funciones de agregar conferencias y ser ligada a las ponencias de los usuarios.
+- Se agrega funciones de edicion de menus.
+- Se agrego plugins de JQuery UI para las alertas, el modo acordeon del modulo Configuraciones y los cuadros de dialogo de los modulos de Usuario, Conferencias,Evaluaciones,Organizacion y secciones de tipos de algunos campos.
+- Transicion a la version mas reciente de TinyMCE (Version 4.0.x).
+
+
+Agradecimiento a:
+
+Juan David Carillo
+Mario Aguilar
+Mauricio
+
+Por su ayuda y sugerencias en el mejoramiento de la aplicacion.
