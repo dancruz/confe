@@ -6,4 +6,4 @@ Sistema para administrar conferencias.
   <li>20200511 Agregando proyecto, sin adecuaciones</li>
 </ul>
 <h3>Correo</h3>
-<p>daniel.cruzyry@gmail.com</p>
+<p>daniel.cruzry@gmail.com</p>
